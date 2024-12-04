@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://www.instagram.com/this_is_armin">
-<img src="instagram.gif" width=40/>
+<img src="instagram.gif" width=40%/>
 <a/>
 
 <!---
