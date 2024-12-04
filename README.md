@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ArminEmamidp
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning everything about Web-Development
-- 💞️ I’m looking to collaborate on your Projects
+# Hello Programmer
 
 <!---
 ArminEmamidp/ArminEmamidp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
